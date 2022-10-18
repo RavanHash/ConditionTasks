@@ -1,0 +1,15 @@
+C:\Users\RA\Desktop\CSharpProjects\ConditionTasks\ConditionTasks\bin\Debug\net6.0\ConditionTasks.exe
+C:\Users\RA\Desktop\CSharpProjects\ConditionTasks\ConditionTasks\bin\Debug\net6.0\ConditionTasks.deps.json
+C:\Users\RA\Desktop\CSharpProjects\ConditionTasks\ConditionTasks\bin\Debug\net6.0\ConditionTasks.runtimeconfig.json
+C:\Users\RA\Desktop\CSharpProjects\ConditionTasks\ConditionTasks\bin\Debug\net6.0\ConditionTasks.dll
+C:\Users\RA\Desktop\CSharpProjects\ConditionTasks\ConditionTasks\bin\Debug\net6.0\ConditionTasks.pdb
+C:\Users\RA\Desktop\CSharpProjects\ConditionTasks\ConditionTasks\obj\Debug\net6.0\ConditionTasks.csproj.AssemblyReference.cache
+C:\Users\RA\Desktop\CSharpProjects\ConditionTasks\ConditionTasks\obj\Debug\net6.0\ConditionTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RA\Desktop\CSharpProjects\ConditionTasks\ConditionTasks\obj\Debug\net6.0\ConditionTasks.AssemblyInfoInputs.cache
+C:\Users\RA\Desktop\CSharpProjects\ConditionTasks\ConditionTasks\obj\Debug\net6.0\ConditionTasks.AssemblyInfo.cs
+C:\Users\RA\Desktop\CSharpProjects\ConditionTasks\ConditionTasks\obj\Debug\net6.0\ConditionTasks.csproj.CoreCompileInputs.cache
+C:\Users\RA\Desktop\CSharpProjects\ConditionTasks\ConditionTasks\obj\Debug\net6.0\ConditionTasks.dll
+C:\Users\RA\Desktop\CSharpProjects\ConditionTasks\ConditionTasks\obj\Debug\net6.0\refint\ConditionTasks.dll
+C:\Users\RA\Desktop\CSharpProjects\ConditionTasks\ConditionTasks\obj\Debug\net6.0\ConditionTasks.pdb
+C:\Users\RA\Desktop\CSharpProjects\ConditionTasks\ConditionTasks\obj\Debug\net6.0\ConditionTasks.genruntimeconfig.cache
+C:\Users\RA\Desktop\CSharpProjects\ConditionTasks\ConditionTasks\obj\Debug\net6.0\ref\ConditionTasks.dll
